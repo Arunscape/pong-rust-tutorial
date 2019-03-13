@@ -5,4 +5,5 @@ authors = []
 edition = "2018"
 
 [dependencies]
-amethyst = "0.10.0"
+# amethyst = "*"
+amethyst = { git = "https://github.com/amethyst/amethyst" }
